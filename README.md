@@ -22,15 +22,17 @@ Sum =A’B’Cin + A’BCin’ + ABCin + AB’Cin’ = A ⊕ B ⊕ Cin
 
 Carry = AB + ACin + BCin
 
-![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/0f30ba51-5ffb-4198-845f-18e054f675e7)
+
 
 **Figure -1 FULL ADDER**
+<img width="676" height="338" alt="image" src="https://github.com/user-attachments/assets/b7f8322d-0a38-4f9c-97d4-ab9e98894bc6" />
 
 **Full Subtractor**
 
 A full subtractor is a combinational circuit that performs subtraction involving three bits, namely minuend, subtrahend, and borrow-in . It accepts three inputs: minuend, subtrahend and a borrow bit and it produces two outputs: difference and borrow.
 
-![image](https://github.com/naavaneetha/FULL_ADDER_SUBTRACTOR/assets/154305477/02b24f51-ab51-4304-9ad6-7b81ffc1ead5)
+<img width="812" height="365" alt="image" src="https://github.com/user-attachments/assets/4ab83e37-5351-46a9-9393-c9ff331f5758" />
+
 
 Diff = A ⊕ B ⊕ Bin 
 
